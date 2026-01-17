@@ -1,6 +1,6 @@
 # NFL Big Data Bowl 2026 - 球员轨迹预测
 
-![Kaggle Silver Medal](figures/silver_medal.png)
+![Kaggle Silver Medal](figures/silver_medal.jpg)
 
 **竞赛成绩**：Silver Medal（银牌） | **排名**：142nd / 2980 teams (Top 4.8%)
 
