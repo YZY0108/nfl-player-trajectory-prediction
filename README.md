@@ -326,7 +326,7 @@ nfl-player-trajectory-prediction/
 ├── requirements.txt
 ├── .gitignore
 │
-├──nfl-big-data-bowl-2026-geometry-gnn.ipynb  # 完整实现
+├──yzy_nfl.ipynb  # 完整实现
 │
 │
 ├── src/
@@ -337,8 +337,6 @@ nfl-player-trajectory-prediction/
 │
 ├── figures/
 │   └── silver_medal.png   # 银牌证明
-│
-└── data/                  # 数据目录（不包含在仓库中）
 ```
 
 ### 环境配置
