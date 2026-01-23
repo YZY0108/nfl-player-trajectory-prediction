@@ -326,8 +326,8 @@ nfl-player-trajectory-prediction/
 ├── requirements.txt
 ├── .gitignore
 │
-├── notebooks/
-│   └── nfl-big-data-bowl-2026-geometry-gnn.ipynb  # 完整实现
+├──nfl-big-data-bowl-2026-geometry-gnn.ipynb  # 完整实现
+│
 │
 ├── src/
 │   ├── __init__.py
